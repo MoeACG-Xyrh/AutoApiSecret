@@ -1,4 +1,3 @@
-#2021-1-2
 # -*- coding: UTF-8 -*-
 import requests as req
 import json,sys,time
