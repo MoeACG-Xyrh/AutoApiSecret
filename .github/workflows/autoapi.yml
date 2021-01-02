@@ -53,8 +53,8 @@ jobs:
         git config --global user.name AutoupdateRobot
         git add .
         git commit -m "update new refresh_token" -a
-        git pull
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
