@@ -1,8 +1,3 @@
-2020-12-25更新
-
-2020-12-12更新
-
-2020-11-24更新
 # AutoApiSecret-加密版
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
@@ -149,3 +144,6 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   最后的最后，再次感谢黑幕/paran大佬
   
   ————wangziyingwen/酷安id-卷腿毛菌
+  
+  
+2021-02-01更新
